@@ -43,3 +43,8 @@ Link drive live code lab7: https://drive.google.com/drive/folders/1Bf1HFcALp1n2-
 Email:
 ```text
 admin@gmail.com
+
+Ảnh minh hoạ:
+<img width="1920" height="1038" alt="image" src="https://github.com/user-attachments/assets/467a28d6-0405-4df4-8d79-8451ee4711c5" />
+<img width="1920" height="1046" alt="image" src="https://github.com/user-attachments/assets/85e321dd-eff6-4761-bf6c-5eb4904025c7" />
+<img width="1919" height="1046" alt="image" src="https://github.com/user-attachments/assets/763213a2-5ec3-43ff-970a-a1262faff27c" />
